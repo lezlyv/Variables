@@ -11,7 +11,7 @@ END OF EXAMPLE
 '''
 
 '''
-START HERE
+START HERE+
 '''
 
 '''INTEGERS'''
